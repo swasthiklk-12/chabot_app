@@ -8,7 +8,7 @@ interface Props {
 export default function Header({ onReset }: Props) {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>✨ Gemini Chat</Text>
+    <Text style={styles.title}>✨ aibot</Text>
       <TouchableOpacity onPress={onReset} style={styles.resetButton}>
         <Text style={styles.resetText}>Clear</Text>
       </TouchableOpacity>
