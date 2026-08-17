@@ -9,6 +9,8 @@ A React Native (Expo) mobile chatbot that talks to Google's Gemini API. Includes
 - Error handling with a dismissible-on-retry banner + inline error bubble
 - Clean, responsive UI with a "Clear chat" reset
 
+- live link:https://chabot-app1.onrender.com
+
 ## 1. Prerequisites
 
 - [Node.js](https://nodejs.org/) 18+ installed
