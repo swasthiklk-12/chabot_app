@@ -13,4 +13,4 @@
 export const GEMINI_API_KEY = process.env.EXPO_PUBLIC_GEMINI_API_KEY ?? '';
 
 // Model options: 'gemini-3.5-flash' (fast, cheap) or 'gemini-3-pro' (higher quality)
-export const GEMINI_MODEL = 'gemini-3.5-flash';
+export const GEMINI_MODEL = 'gemini-3.5-flash-lite';
